@@ -1,3 +1,3 @@
 # App
 
-Estoy creando una Web app con JAVASCRIPT, tratando de adquirir mas conociemientos en este maravilloso lenguake de programación
+Estoy creando una Web app con JAVASCRIPT, tratando de adquirir más conocimientos en este maravilloso lenguaje de programación.
